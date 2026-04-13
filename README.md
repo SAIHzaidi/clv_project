@@ -1,4 +1,4 @@
-# 💰 Customer Lifetime Value (CLV) Prediction System
+# Customer Lifetime Value (CLV) Prediction System
 
 > **End-to-end ML system that predicts 90-day Customer Lifetime Value from transactional data, segments customers into actionable tiers, and serves predictions via a REST API and interactive dashboard.**
 
@@ -345,6 +345,9 @@ Set environment variables via the Railway dashboard.
 
 ## Author
 
-Built as a production-quality portfolio project demonstrating end-to-end ML engineering: data generation, feature design, model selection, REST API development, and interactive visualisation.
+I built this as a production-quality portfolio project demonstrating end-to-end ML engineering: data generation, feature design, model selection, REST API development, and interactive visualisation.
 
-*Designed to reflect real industry workflows — not a notebook experiment.*
+let me know if theres any issues with use. 
+
+SAIHZaidi
+
