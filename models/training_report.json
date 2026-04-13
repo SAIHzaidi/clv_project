@@ -1,0 +1,41 @@
+{
+  "best_model": "GradientBoosting",
+  "cv_results": {
+    "Ridge": 2.3164365952467683,
+    "GradientBoosting": 1.961502454288109,
+    "RandomForest": 2.1184
+  },
+  "test_metrics": {
+    "Ridge": {
+      "rmse": 22987.86959856572,
+      "mae": 1928.6206933483036
+    },
+    "GradientBoosting": {
+      "rmse": 747.2335563122643,
+      "mae": 305.15423178828723
+    },
+    "RandomForest": {
+      "rmse": 836.9,
+      "mae": 335.67
+    }
+  },
+  "feature_names": [
+    "frequency",
+    "monetary",
+    "recency",
+    "customer_tenure",
+    "avg_order_value",
+    "std_order_value",
+    "max_order_value",
+    "min_order_value",
+    "cv_order_value",
+    "avg_days_between_txns",
+    "recent_spend_90d",
+    "historical_spend_rest",
+    "purchase_rate",
+    "months_with_purchase",
+    "spend_trend"
+  ],
+  "n_train": 2676,
+  "n_test": 670
+}
